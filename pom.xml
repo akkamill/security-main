@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>2.6.2</version>
+		<relativePath/> <!-- lookup parent from repository -->
+	</parent>
+	<groupId>com.spring.security</groupId>
+	<artifactId>security-main</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>security-main</name>
+	<description>Demo project for Spring Boot</description>
+	 <packaging>pom</packaging>
+	 <modules>
+		 <module>chp2</module>
+		 <module>chp2_1</module>
+		 <module>chp2_2</module>
+		 <module>chp2_3</module>
+		 <module>chp2_5</module>
+		 <module>chp2_6</module>
+		 <module>chp2_7</module>
+		 <module>chp2_8</module>
+		 <module>chp2_9</module>
+		 <module>chp6</module>
+		 <module>chp2_10</module>
+		 <module>chp2_11</module>
+		 <module>chp2_12</module>
+		 <module>chp2_13</module>
+		 <module>chp2_14</module>
+		 <module>chp9_1</module>
+		 <module>chp9_2</module>
+		 <module>chp9_3</module>
+		 <module>chp10</module>
+		 <module>chp11</module>
+		 <module>chp12</module>
+		 <module>chp12_1</module>
+		 <module>chp12_2</module>
+		 <module>chp13</module>
+	 </modules>
+</project>
